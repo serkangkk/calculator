@@ -1,0 +1,19 @@
+input[type="button"]{
+    border-radius: 5px;
+    background-color: gray;
+    color: brown;
+    border-color: aqua;
+    width: 100%;
+    height: 25px;
+    font-size: 15px;
+}
+input[type="text"]{
+    border-radius: 7px;
+    text-align: right;
+    background-color: gray;
+    color: aliceblue;
+    border-color: aqua;
+    width: 100%;
+    font-size: 15px;
+    height: 27px;
+}
